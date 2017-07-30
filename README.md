@@ -5,6 +5,7 @@ See it in action here: https://beesmart.github.io/fcc-weatherAPI/
 An Angular 4 app which uses HTML5's Geolocation data to grab a weather report for your area. It also allows switching the temperature value between Celsius & Farenheit.
 
 It's a project which is inspired by FCC's project map: https://www.freecodecamp.org/challenges/show-the-local-weather
+
 I originally built it in jQuery but wanted to try it out in Angular...
 
 ## Setup
